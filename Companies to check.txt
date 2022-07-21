@@ -11,3 +11,5 @@ ITWorx: https://lde.tbe.taleo.net/lde02/ats/careers/v2/searchResults
 Atos: https://jobs.atos.net/
 
 Digital Magna: https://www.linkedin.com/company/digital-magna/
+
+uniparticle: https://www.uniparticle.com/home
