@@ -15,3 +15,9 @@
 |ITQAN SYSTEMS| https://itqansystems.com/ | https://www.linkedin.com/company/itqan-systems/ |
 |Cegedim Egypt| https://www.cegedim.com/Pages/default.aspx | https://www.linkedin.com/company/cegedim-egypt/ |
 |Spree Solutions| https://www.spree.com.eg/ | https://www.linkedin.com/company/spreesolutionsco/ |
+| Halan | https://halan.com/ |https://www.linkedin.com/company/halan/|
+|evolvice|https://www.evolvice.de/en/ | https://www.linkedin.com/company/evolvice-gmbh/|
+|Avelabs|https://careers.avelabs.com/|https://www.linkedin.com/company/avelabs/|
+|eJad|http://www.ejad.com.eg/|https://www.linkedin.com/company/ejad/|
+|SEITech Solutions|https://seitech-solutions.com/|https://www.linkedin.com/company/seitech-solutions-eg/jobs/|
+||||
