@@ -20,4 +20,10 @@
 |Avelabs|https://careers.avelabs.com/|https://www.linkedin.com/company/avelabs/|
 |eJad|http://www.ejad.com.eg/|https://www.linkedin.com/company/ejad/|
 |SEITech Solutions|https://seitech-solutions.com/|https://www.linkedin.com/company/seitech-solutions-eg/jobs/|
-||||
+|ASSET Technology Group|https://asset-technology.com/careers/|https://www.linkedin.com/company/asset-technology-group/|
+|E.VISION for information Technology| https://evision-corp.com/|https://www.linkedin.com/company/e-vision-technology/|
+|SmartTech Sys|https://smarttechsys.com/|https://www.linkedin.com/company/smart-tech-sys/|
+|SilverKey Technologies|https://egypt.silverkeytech.com/|https://www.linkedin.com/company/silverkey/|
+|MaxAB|https://www.maxab.io/|https://www.linkedin.com/company/maxab/|
+|Trella|https://jobs.lever.co/trella|https://www.linkedin.com/company/trellaapp/|
+|Rubikal|https://rubikal.com/#careers|https://www.linkedin.com/company/rubikal_llc/|
