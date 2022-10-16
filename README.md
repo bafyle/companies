@@ -27,3 +27,7 @@
 |MaxAB|https://www.maxab.io/|https://www.linkedin.com/company/maxab/|
 |Trella|https://jobs.lever.co/trella|https://www.linkedin.com/company/trellaapp/|
 |Rubikal|https://rubikal.com/#careers|https://www.linkedin.com/company/rubikal_llc/|
+|tactful.ai| https://tactful.ai/careers/ | https://www.linkedin.com/company/tactfulai/ |
+|Cairo house development| https://chd.com.eg/ |https://www.linkedin.com/company/cairo-house-development/|
+|Cartona | https://cartona.talentlyft.com/ https://cartona.com/ |  https://www.linkedin.com/company/cartona-egypt/|
+|CrossWorkers Egypt | https://www.crossworkers-egypt.com/ | https://www.linkedin.com/company/crossworkers-egypt/ | 
