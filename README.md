@@ -31,3 +31,8 @@
 |Cairo house development| https://chd.com.eg/ |https://www.linkedin.com/company/cairo-house-development/|
 |Cartona | https://cartona.talentlyft.com/ https://cartona.com/ |  https://www.linkedin.com/company/cartona-egypt/|
 |CrossWorkers Egypt | https://www.crossworkers-egypt.com/ | https://www.linkedin.com/company/crossworkers-egypt/ | 
+|Valify | https://valify.me/ | https://www.linkedin.com/company/valifysolutions/ |
+|Melior| https://mymelior.com/ | https://www.linkedin.com/company/mymelior/| |
+|marbella |https://www.marbella.com.eg/| https://www.linkedin.com/company/marbella-group/|
+|techforce|https://gettechforce.com/|https://www.linkedin.com/company/gettechforce/|
+|cyparta|https://cyparta.com/#home|https://www.linkedin.com/company/cyparta/|
