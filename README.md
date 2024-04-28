@@ -1,4 +1,4 @@
-# Companies for software engineering jobs (mainly python and django)
+# Software Engineering hiring companies in Egypt
 
 | Company name | Link | LinkedIn|
 |:-------------|:-----|:--------|
